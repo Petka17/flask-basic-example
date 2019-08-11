@@ -10,7 +10,8 @@
       "request": "launch",
       "module": "flask",
       "env": {
-        "FLASK_APP": "hello.py",
+        "PYTHONDONTWRITEBYTECODE": 1,
+        "FLASK_APP": "flaskr",
         "FLASK_ENV": "development",
         "FLASK_DEBUG": "0"
       },
