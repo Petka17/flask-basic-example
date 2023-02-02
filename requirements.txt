@@ -13,4 +13,4 @@ mccabe==0.6.1
 pycodestyle==2.5.0
 pyflakes==2.1.1
 toml==0.10.0
-Werkzeug==0.15.4
+Werkzeug==0.15.5
